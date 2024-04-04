@@ -28,7 +28,7 @@ This repository contains the code and documentation for a Handwritten Digit Reco
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3
 - TensorFlow
 - Keras
 - NumPy
@@ -37,6 +37,7 @@ This repository contains the code and documentation for a Handwritten Digit Reco
 ### Installation
 
 1. Clone the repository:
+git clone https://github.com/SNEHA-SUDHIR/TNSDC2024.git
 
 
 Neural Network
